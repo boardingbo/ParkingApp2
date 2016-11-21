@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.user.parkminder.MainActivity"
+    android:weightSum="1">
+
+    <Button
+        android:layout_width="232dp"
+        android:layout_height="wrap_content"
+        android:text="@string/park_button"
+        android:id="@+id/park_button"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.40"
+        android:onClick="parkButtonHandler"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/unpark_button"
+        android:id="@+id/upark_button"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.09" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start Updates"
+            android:id="@+id/start_updates_button"
+            android:onClick="startUpdatesButtonHandler"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stop Updates"
+            android:id="@+id/stop_updates_button"
+            android:onClick="stopUpdatesButtonHandler"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.04">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/latitude_update_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/longitude_update_text"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/accuracy_update_text"
+        android:layout_weight="0.03" />
+
+    <TextView
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/last_update_time_text" />
+
+    <Button
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:text="@string/fetch_address_button"
+        android:id="@+id/fetch_address_button"
+        android:onClick="fetchAddressButtonHandler"
+        />
+
+    <TextView
+        android:layout_width="355dp"
+        android:layout_height="wrap_content"
+        android:text="@string/fetch_address_textView_label"
+        android:id="@+id/fetch_address_textView_label"
+        android:layout_weight="0.06"/>
+
+    <TextView
+        android:layout_width="355dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/fetch_address_textView"
+        android:layout_weight="0.06"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test_database_button"
+        android:id="@+id/test_database_button"
+        android:onClick="testDatabaseButtonHandler"
+        />
+</LinearLayout>

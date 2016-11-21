@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

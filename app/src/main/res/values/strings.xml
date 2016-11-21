@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Parkminder</string>
+    <string name="park_button">Park</string>
+    <string name="unpark_button">Unpark</string>
+    <string name="last_update_time_label">Last Update Time</string>
+    <string name="no_geocoder_available">No geocoder available</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="address_found">Address found</string>
+    <string name="location_updated_message">Location updated</string>
+    <string name="fetch_address_button">Fetch Address</string>
+    <string name="fetch_address_textView_label">Current Address</string>
+    <string name="address_from_gps">Address</string>
+    <string name="next_move_date">Next Move Date</string>
+    <string name="next_restriction_button">Next Parking Restriction</string>
+    <string name="test_database_button">Test Database</string>
+    <string name="get_nearby_streets">Get Nearby Streets</string>
+    <string name="get_zones">Get Zones</string>
+    <string name="set_reminders">Set Reminder</string>
+    <string name="street_spinner_label">Nearby Streets </string>
+    <string name="zone_spinner_label">Parking Zones </string>
+    <string name="notification_time_label">Notification Time </string>
+
+    <string-array name="street_names_array">
+
+    </string-array>
+    <string-array name="zone_names_array">
+        <item>Street Sweeping 1st Thursday</item>
+        <item>Street Sweeping 1st Friday</item>
+        <item>2 Hour Parking</item>
+    </string-array>
+</resources>

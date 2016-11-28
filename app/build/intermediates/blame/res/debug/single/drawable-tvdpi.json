@@ -1,7 +1,19 @@
 [
     {
-        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_standard_off_client.png",
-        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
     },
     {
         "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
@@ -16,24 +28,32 @@
         "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
-        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
-    },
-    {
         "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
         "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_tall_off_client.png",
-        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
-        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\AProjects\\Android Studio\\android-play-location-master\\Parkminder\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\ParkingApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
     },
     {
         "merged": "C:\\Users\\SinnConsultants\\Desktop\\ParkingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
